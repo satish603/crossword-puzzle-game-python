@@ -9,32 +9,19 @@ For The Course
 "INT 213"
 Submitted by-                                            Submitted to-
 1.Satish Chauhan                                                                       ISHAN KUMAR
-Reg no. (11902149)
+Reg no. ()
 Roll number:30
 2.Jatin Srivastava                                                            
-Reg no. (11902181)
+Reg no. ()
 Roll number :- 22
 3.GAURAV SARMA                                                                                   
-Reg no. (  11902152  )
+Reg no. (    )
 Roll number:31
 
-	
-                                                                                                                                                                                                                                                             1
 ABSTRACT
 The goal of this project was design a puzzle game in which, various letters will be shown in a table and he/she can move horizontally, vertically or diagonally in order to make meaningful words.
 We use Jupyter notebook to make this project complete.
 
-
-
-
-
-
-
-
-
-
-																																																																																																																																																																															2
- 
 Acknowledgement
 I take this opportunity to present my votes of thanks to allthose guidepost who really acted as lightening pillars to enlighten our way throughout this project that has led to successful and satisfactory completion of the study. We are really grateful to our teacher for providing us with an opportunity to undertake this project in this university and providing us with all the facilities. We are highly thankful to Ishan Kumar sir for his active support, valuable time and advice, wholehearted guidance, sincere cooperation and pain-taking involvement during the study and in completing the assignment of preparing the said project within the time stipulated.
 Lastly, we are thankful to all those particularly the various friend who have been instrumental in creating proper online  environment and including new and fresh innovative ideas for us during the project, their help, it would have been extremely difficult for us to prepare the project in a time bound framework.																																																																																																																																																																																																																																																																																																															3
