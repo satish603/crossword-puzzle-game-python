@@ -1,8 +1,8 @@
-# crossword-puzzle-game-python
+### crossword-puzzle-game-python
 
 Design a Puzzle Game in which, various letters will be shown in a table and he/she can move horizontally, vertically or diagonally in order to make meaningful words.
 
-ABSTRACT
+## ABSTRACT
 The goal of this project was design a puzzle game in which, various letters will be shown in a table and he/she can move horizontally, vertically or diagonally in order to make meaningful words.
 
 
